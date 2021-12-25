@@ -1,5 +1,6 @@
-| <samp>👋 Glad you found my profile!</samp> |
+| <samp>👋🏽 Glad you found my profile!</samp> |
 | ---  |
+| <p align = "center"> <a href="sanjayshivakumar.com"><img src="Assets/planet.gif" align="center"></a> </p> | ;la;lkajdsf |
 
 
 
