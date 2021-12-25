@@ -1,9 +1,14 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Chaos Engineering Enthusiast, Open Source Contributor, and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
-
- <p align = "center"> <img src="Assets/planet.gif" align="center"> </p>
- <h3 align = "center"> 私 <samp>website</samp> 🧡</h3>
+| <samp>👋 Glad you found my profile!</samp> |
+| ---  |
 
 
+
+
+
+ <p align = "center"> <a href="sanjayshivakumar.com"><img src="Assets/planet.gif" align="center"></a> </p>
+ <h3 align = "center"> 私 <samp><a href="sanjayshivakumar.com">website</a></samp></h3>
+
+<samp>Listening to</samp> 🧡
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&redirect=true)
 
